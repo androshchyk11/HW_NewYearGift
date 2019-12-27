@@ -1,0 +1,2 @@
+D:\Epam_Homeworks\HW_NewYearGift\src\main\java\input.txt
+D:\Epam_Homeworks\HW_NewYearGift\src\main\java\output.txt

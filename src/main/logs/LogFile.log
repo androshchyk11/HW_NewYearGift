@@ -1,0 +1,353 @@
+2019-12-27 16:06:51 INFO  Main:90 - InfoStream is found!
+2019-12-27 16:06:51 INFO  Main:107 - Input file is found!
+2019-12-27 16:06:51 INFO  Main:115 - Output file is found!
+2019-12-27 16:06:51 INFO  Main:72 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:07:11 INFO  Main:91 - InfoStream is found!
+2019-12-27 16:07:11 INFO  Main:108 - Input file is found!
+2019-12-27 16:07:11 INFO  Main:116 - Output file is found!
+2019-12-27 16:07:11 INFO  Main:73 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:08:01 INFO  Main:91 - InfoStream is found!
+2019-12-27 16:08:01 INFO  Main:108 - Input file is found!
+2019-12-27 16:08:01 INFO  Main:116 - Output file is found!
+2019-12-27 16:08:01 INFO  Main:73 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:08:19 INFO  Main:91 - InfoStream is found!
+2019-12-27 16:08:19 INFO  Main:108 - Input file is found!
+2019-12-27 16:08:19 INFO  Main:116 - Output file is found!
+2019-12-27 16:08:19 INFO  Main:73 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:08:59 INFO  Main:93 - InfoStream is found!
+2019-12-27 16:08:59 INFO  Main:110 - Input file is found!
+2019-12-27 16:08:59 INFO  Main:118 - Output file is found!
+2019-12-27 16:08:59 INFO  Main:73 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:09:09 INFO  Main:92 - InfoStream is found!
+2019-12-27 16:09:09 INFO  Main:109 - Input file is found!
+2019-12-27 16:09:09 INFO  Main:117 - Output file is found!
+2019-12-27 16:09:10 INFO  Main:72 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:11:46 INFO  Main:93 - InfoStream is found!
+2019-12-27 16:11:46 INFO  Main:110 - Input file is found!
+2019-12-27 16:11:46 INFO  Main:118 - Output file is found!
+2019-12-27 16:11:46 INFO  Main:73 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:12:30 INFO  Main:92 - InfoStream is found!
+2019-12-27 16:12:30 INFO  Main:109 - Input file is found!
+2019-12-27 16:12:30 INFO  Main:117 - Output file is found!
+2019-12-27 16:12:30 INFO  Main:73 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:13:15 INFO  Main:91 - InfoStream is found!
+2019-12-27 16:13:15 INFO  Main:108 - Input file is found!
+2019-12-27 16:13:15 INFO  Main:116 - Output file is found!
+2019-12-27 16:13:15 INFO  Main:71 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:13:24 INFO  Main:91 - InfoStream is found!
+2019-12-27 16:13:24 INFO  Main:108 - Input file is found!
+2019-12-27 16:13:24 INFO  Main:116 - Output file is found!
+2019-12-27 16:20:21 INFO  Main:92 - InfoStream is found!
+2019-12-27 16:20:21 INFO  Main:109 - Input file is found!
+2019-12-27 16:20:21 INFO  Main:117 - Output file is found!
+2019-12-27 16:20:21 INFO  Main:70 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:20:37 INFO  Main:92 - InfoStream is found!
+2019-12-27 16:20:37 INFO  Main:109 - Input file is found!
+2019-12-27 16:20:37 INFO  Main:117 - Output file is found!
+2019-12-27 16:20:57 INFO  Main:90 - InfoStream is found!
+2019-12-27 16:20:57 INFO  Main:107 - Input file is found!
+2019-12-27 16:20:57 INFO  Main:115 - Output file is found!
+2019-12-27 16:23:03 INFO  Main:90 - InfoStream is found!
+2019-12-27 16:23:03 INFO  Main:107 - Input file is found!
+2019-12-27 16:23:03 INFO  Main:115 - Output file is found!
+2019-12-27 16:23:03 INFO  Main:71 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:24:37 INFO  Main:90 - InfoStream is found!
+2019-12-27 16:24:37 INFO  Main:108 - Input file is found!
+2019-12-27 16:24:37 INFO  Main:116 - Output file is found!
+2019-12-27 16:24:37 INFO  Main:71 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:28:02 INFO  Main:99 - InfoStream is found!
+2019-12-27 16:28:02 INFO  Main:117 - Input file is found!
+2019-12-27 16:28:02 INFO  Main:125 - Output file is found!
+2019-12-27 16:28:02 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 16:28:56 INFO  Main:99 - InfoStream is found!
+2019-12-27 16:28:56 INFO  Main:117 - Input file is found!
+2019-12-27 16:28:56 INFO  Main:125 - Output file is found!
+2019-12-27 16:28:56 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:23:49 INFO  Main:100 - InfoStream is found!
+2019-12-27 19:23:49 INFO  Main:118 - Input file is found!
+2019-12-27 19:23:49 INFO  Main:126 - Output file is found!
+2019-12-27 19:23:49 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:24:16 INFO  Main:100 - InfoStream is found!
+2019-12-27 19:24:16 INFO  Main:118 - Input file is found!
+2019-12-27 19:24:16 INFO  Main:126 - Output file is found!
+2019-12-27 19:24:16 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:24:25 INFO  Main:100 - InfoStream is found!
+2019-12-27 19:24:25 INFO  Main:118 - Input file is found!
+2019-12-27 19:24:25 INFO  Main:126 - Output file is found!
+2019-12-27 19:24:49 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:25:20 INFO  Main:100 - InfoStream is found!
+2019-12-27 19:25:20 INFO  Main:118 - Input file is found!
+2019-12-27 19:25:20 INFO  Main:126 - Output file is found!
+2019-12-27 19:25:25 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:26:01 INFO  Main:100 - InfoStream is found!
+2019-12-27 19:26:01 INFO  Main:118 - Input file is found!
+2019-12-27 19:26:01 INFO  Main:126 - Output file is found!
+2019-12-27 19:26:01 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:26:21 INFO  Main:100 - InfoStream is found!
+2019-12-27 19:26:21 INFO  Main:118 - Input file is found!
+2019-12-27 19:26:21 INFO  Main:126 - Output file is found!
+2019-12-27 19:26:21 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:27:17 INFO  Main:101 - InfoStream is found!
+2019-12-27 19:27:17 INFO  Main:119 - Input file is found!
+2019-12-27 19:27:17 INFO  Main:127 - Output file is found!
+2019-12-27 19:27:17 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:28:13 INFO  Main:101 - InfoStream is found!
+2019-12-27 19:28:13 INFO  Main:119 - Input file is found!
+2019-12-27 19:28:13 INFO  Main:127 - Output file is found!
+2019-12-27 19:28:13 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:28:51 INFO  Main:103 - InfoStream is found!
+2019-12-27 19:28:51 INFO  Main:121 - Input file is found!
+2019-12-27 19:28:51 INFO  Main:129 - Output file is found!
+2019-12-27 19:28:51 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:29:05 INFO  Main:103 - InfoStream is found!
+2019-12-27 19:29:05 INFO  Main:121 - Input file is found!
+2019-12-27 19:29:05 INFO  Main:129 - Output file is found!
+2019-12-27 19:29:05 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:33:59 INFO  Main:105 - InfoStream is found!
+2019-12-27 19:33:59 INFO  Main:123 - Input file is found!
+2019-12-27 19:33:59 INFO  Main:131 - Output file is found!
+2019-12-27 19:33:59 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:34:16 INFO  Main:105 - InfoStream is found!
+2019-12-27 19:34:16 INFO  Main:123 - Input file is found!
+2019-12-27 19:34:16 INFO  Main:131 - Output file is found!
+2019-12-27 19:34:16 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:34:58 INFO  Main:106 - InfoStream is found!
+2019-12-27 19:34:58 INFO  Main:124 - Input file is found!
+2019-12-27 19:34:58 INFO  Main:132 - Output file is found!
+2019-12-27 19:34:58 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:35:25 INFO  Main:106 - InfoStream is found!
+2019-12-27 19:35:25 INFO  Main:124 - Input file is found!
+2019-12-27 19:35:25 INFO  Main:132 - Output file is found!
+2019-12-27 19:35:25 INFO  Main:79 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:36:11 INFO  Main:107 - InfoStream is found!
+2019-12-27 19:36:11 INFO  Main:125 - Input file is found!
+2019-12-27 19:36:11 INFO  Main:133 - Output file is found!
+2019-12-27 19:36:11 INFO  Main:80 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:38:07 INFO  Main:107 - InfoStream is found!
+2019-12-27 19:38:07 INFO  Main:125 - Input file is found!
+2019-12-27 19:38:07 INFO  Main:133 - Output file is found!
+2019-12-27 19:38:07 INFO  Main:80 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:38:30 INFO  Main:107 - InfoStream is found!
+2019-12-27 19:38:30 INFO  Main:125 - Input file is found!
+2019-12-27 19:38:30 INFO  Main:133 - Output file is found!
+2019-12-27 19:38:30 INFO  Main:80 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:44:18 INFO  Main:108 - InfoStream is found!
+2019-12-27 19:44:18 INFO  Main:126 - Input file is found!
+2019-12-27 19:44:18 INFO  Main:134 - Output file is found!
+2019-12-27 19:44:18 INFO  Main:81 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:46:25 INFO  Main:108 - InfoStream is found!
+2019-12-27 19:46:25 INFO  Main:126 - Input file is found!
+2019-12-27 19:46:25 INFO  Main:134 - Output file is found!
+2019-12-27 19:46:25 INFO  Main:81 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:46:33 INFO  Main:108 - InfoStream is found!
+2019-12-27 19:46:33 INFO  Main:126 - Input file is found!
+2019-12-27 19:46:33 INFO  Main:134 - Output file is found!
+2019-12-27 19:46:33 INFO  Main:81 - We entered filterStreamByPriceMethod! 
+2019-12-27 19:59:15 INFO  Main:108 - InfoStream is found!
+2019-12-27 19:59:15 INFO  Main:126 - Input file is found!
+2019-12-27 19:59:15 INFO  Main:134 - Output file is found!
+2019-12-27 20:02:49 INFO  Main:111 - InfoStream is found!
+2019-12-27 20:02:49 INFO  Main:129 - Input file is found!
+2019-12-27 20:02:49 INFO  Main:137 - Output file is found!
+2019-12-27 20:03:03 INFO  Main:111 - InfoStream is found!
+2019-12-27 20:03:03 INFO  Main:129 - Input file is found!
+2019-12-27 20:03:03 INFO  Main:137 - Output file is found!
+2019-12-27 20:05:30 INFO  Main:110 - InfoStream is found!
+2019-12-27 20:05:30 INFO  Main:128 - Input file is found!
+2019-12-27 20:05:30 INFO  Main:136 - Output file is found!
+2019-12-27 20:51:02 INFO  Main:94 - InfoStream is found!
+2019-12-27 20:51:02 INFO  Main:111 - Input file is found!
+2019-12-27 20:51:02 INFO  Main:119 - Output file is found!
+2019-12-27 20:51:21 INFO  Main:94 - InfoStream is found!
+2019-12-27 20:51:21 INFO  Main:111 - Input file is found!
+2019-12-27 20:51:21 INFO  Main:119 - Output file is found!
+2019-12-27 20:51:21 INFO  Main:74 - We entered filterStreamByPriceMethod! 
+2019-12-27 20:51:37 INFO  Main:93 - InfoStream is found!
+2019-12-27 20:51:37 INFO  Main:110 - Input file is found!
+2019-12-27 20:51:37 INFO  Main:118 - Output file is found!
+2019-12-27 20:51:37 INFO  Main:74 - We entered filterStreamByPriceMethod! 
+2019-12-27 23:17:31 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:17:31 INFO  Main:201 - Input file is found!
+2019-12-27 23:17:31 INFO  Main:209 - Output file is found!
+2019-12-27 23:17:39 INFO  Main:138 - We entered filterStreamByPriceMethod! 
+2019-12-27 23:17:45 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:17:45 INFO  Main:201 - Input file is found!
+2019-12-27 23:17:45 INFO  Main:209 - Output file is found!
+2019-12-27 23:18:15 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:18:15 INFO  Main:201 - Input file is found!
+2019-12-27 23:18:15 INFO  Main:209 - Output file is found!
+2019-12-27 23:18:25 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:18:25 INFO  Main:201 - Input file is found!
+2019-12-27 23:18:25 INFO  Main:209 - Output file is found!
+2019-12-27 23:18:47 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:18:47 INFO  Main:201 - Input file is found!
+2019-12-27 23:18:47 INFO  Main:209 - Output file is found!
+2019-12-27 23:19:21 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:19:21 INFO  Main:201 - Input file is found!
+2019-12-27 23:19:21 INFO  Main:209 - Output file is found!
+2019-12-27 23:19:30 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:19:30 INFO  Main:201 - Input file is found!
+2019-12-27 23:19:30 INFO  Main:209 - Output file is found!
+2019-12-27 23:19:51 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:19:51 INFO  Main:201 - Input file is found!
+2019-12-27 23:19:51 INFO  Main:209 - Output file is found!
+2019-12-27 23:20:04 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:20:04 INFO  Main:201 - Input file is found!
+2019-12-27 23:20:04 INFO  Main:209 - Output file is found!
+2019-12-27 23:20:46 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:20:46 INFO  Main:201 - Input file is found!
+2019-12-27 23:20:46 INFO  Main:209 - Output file is found!
+2019-12-27 23:20:57 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:20:57 INFO  Main:201 - Input file is found!
+2019-12-27 23:20:57 INFO  Main:209 - Output file is found!
+2019-12-27 23:21:29 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:21:29 INFO  Main:201 - Input file is found!
+2019-12-27 23:21:29 INFO  Main:209 - Output file is found!
+2019-12-27 23:21:57 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:21:57 INFO  Main:201 - Input file is found!
+2019-12-27 23:21:57 INFO  Main:209 - Output file is found!
+2019-12-27 23:22:40 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:22:40 INFO  Main:201 - Input file is found!
+2019-12-27 23:22:40 INFO  Main:209 - Output file is found!
+2019-12-27 23:24:14 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:24:14 INFO  Main:206 - Input file is found!
+2019-12-27 23:24:14 INFO  Main:214 - Output file is found!
+2019-12-27 23:24:34 INFO  Main:190 - InfoStream is found!
+2019-12-27 23:24:34 INFO  Main:207 - Input file is found!
+2019-12-27 23:24:34 INFO  Main:215 - Output file is found!
+2019-12-27 23:25:06 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:25:06 INFO  Main:206 - Input file is found!
+2019-12-27 23:25:06 INFO  Main:214 - Output file is found!
+2019-12-27 23:28:43 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:28:43 INFO  Main:206 - Input file is found!
+2019-12-27 23:28:43 INFO  Main:214 - Output file is found!
+2019-12-27 23:29:08 INFO  Main:188 - InfoStream is found!
+2019-12-27 23:29:08 INFO  Main:205 - Input file is found!
+2019-12-27 23:29:08 INFO  Main:213 - Output file is found!
+2019-12-27 23:29:41 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:29:41 INFO  Main:206 - Input file is found!
+2019-12-27 23:29:41 INFO  Main:214 - Output file is found!
+2019-12-27 23:31:34 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:31:35 INFO  Main:206 - Input file is found!
+2019-12-27 23:31:35 INFO  Main:214 - Output file is found!
+2019-12-27 23:31:44 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:31:44 INFO  Main:206 - Input file is found!
+2019-12-27 23:31:44 INFO  Main:214 - Output file is found!
+2019-12-27 23:32:05 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:32:05 INFO  Main:206 - Input file is found!
+2019-12-27 23:32:05 INFO  Main:214 - Output file is found!
+2019-12-27 23:33:19 INFO  Main:188 - InfoStream is found!
+2019-12-27 23:33:19 INFO  Main:205 - Input file is found!
+2019-12-27 23:33:19 INFO  Main:213 - Output file is found!
+2019-12-27 23:34:12 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:34:12 INFO  Main:206 - Input file is found!
+2019-12-27 23:34:12 INFO  Main:214 - Output file is found!
+2019-12-27 23:34:18 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:34:18 INFO  Main:206 - Input file is found!
+2019-12-27 23:34:18 INFO  Main:214 - Output file is found!
+2019-12-27 23:34:36 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:34:36 INFO  Main:206 - Input file is found!
+2019-12-27 23:34:36 INFO  Main:214 - Output file is found!
+2019-12-27 23:34:53 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:34:53 INFO  Main:206 - Input file is found!
+2019-12-27 23:34:53 INFO  Main:214 - Output file is found!
+2019-12-27 23:35:15 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:35:15 INFO  Main:201 - Input file is found!
+2019-12-27 23:35:15 INFO  Main:209 - Output file is found!
+2019-12-27 23:36:42 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:36:42 INFO  Main:201 - Input file is found!
+2019-12-27 23:36:42 INFO  Main:209 - Output file is found!
+2019-12-27 23:36:46 INFO  Main:138 - We entered filterStreamByPriceMethod! 
+2019-12-27 23:36:51 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:36:51 INFO  Main:201 - Input file is found!
+2019-12-27 23:36:51 INFO  Main:209 - Output file is found!
+2019-12-27 23:36:59 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:36:59 INFO  Main:201 - Input file is found!
+2019-12-27 23:36:59 INFO  Main:209 - Output file is found!
+2019-12-27 23:37:06 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:37:06 INFO  Main:201 - Input file is found!
+2019-12-27 23:37:06 INFO  Main:209 - Output file is found!
+2019-12-27 23:37:21 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:37:21 INFO  Main:201 - Input file is found!
+2019-12-27 23:37:21 INFO  Main:209 - Output file is found!
+2019-12-27 23:37:31 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:37:31 INFO  Main:201 - Input file is found!
+2019-12-27 23:37:31 INFO  Main:209 - Output file is found!
+2019-12-27 23:38:28 INFO  Main:185 - InfoStream is found!
+2019-12-27 23:38:28 INFO  Main:202 - Input file is found!
+2019-12-27 23:38:28 INFO  Main:210 - Output file is found!
+2019-12-27 23:38:49 INFO  Main:185 - InfoStream is found!
+2019-12-27 23:38:49 INFO  Main:202 - Input file is found!
+2019-12-27 23:38:49 INFO  Main:210 - Output file is found!
+2019-12-27 23:38:55 INFO  Main:185 - InfoStream is found!
+2019-12-27 23:38:55 INFO  Main:202 - Input file is found!
+2019-12-27 23:38:55 INFO  Main:210 - Output file is found!
+2019-12-27 23:39:04 INFO  Main:185 - InfoStream is found!
+2019-12-27 23:39:04 INFO  Main:202 - Input file is found!
+2019-12-27 23:39:04 INFO  Main:210 - Output file is found!
+2019-12-27 23:40:22 INFO  Main:185 - InfoStream is found!
+2019-12-27 23:40:22 INFO  Main:202 - Input file is found!
+2019-12-27 23:40:22 INFO  Main:210 - Output file is found!
+2019-12-27 23:41:33 INFO  Main:184 - InfoStream is found!
+2019-12-27 23:41:33 INFO  Main:201 - Input file is found!
+2019-12-27 23:41:33 INFO  Main:209 - Output file is found!
+2019-12-27 23:42:39 INFO  Main:185 - InfoStream is found!
+2019-12-27 23:42:39 INFO  Main:202 - Input file is found!
+2019-12-27 23:42:39 INFO  Main:210 - Output file is found!
+2019-12-27 23:43:12 INFO  Main:185 - InfoStream is found!
+2019-12-27 23:43:12 INFO  Main:202 - Input file is found!
+2019-12-27 23:43:12 INFO  Main:210 - Output file is found!
+2019-12-27 23:43:23 INFO  Main:185 - InfoStream is found!
+2019-12-27 23:43:23 INFO  Main:202 - Input file is found!
+2019-12-27 23:43:23 INFO  Main:210 - Output file is found!
+2019-12-27 23:44:59 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:44:59 INFO  Main:204 - Input file is found!
+2019-12-27 23:44:59 INFO  Main:212 - Output file is found!
+2019-12-27 23:45:08 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:45:08 INFO  Main:204 - Input file is found!
+2019-12-27 23:45:08 INFO  Main:212 - Output file is found!
+2019-12-27 23:45:47 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:45:47 INFO  Main:204 - Input file is found!
+2019-12-27 23:45:47 INFO  Main:212 - Output file is found!
+2019-12-27 23:46:14 INFO  Main:189 - InfoStream is found!
+2019-12-27 23:46:14 INFO  Main:206 - Input file is found!
+2019-12-27 23:46:14 INFO  Main:214 - Output file is found!
+2019-12-27 23:47:34 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:47:34 INFO  Main:204 - Input file is found!
+2019-12-27 23:47:34 INFO  Main:212 - Output file is found!
+2019-12-27 23:47:49 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:47:49 INFO  Main:204 - Input file is found!
+2019-12-27 23:47:49 INFO  Main:212 - Output file is found!
+2019-12-27 23:48:13 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:48:13 INFO  Main:204 - Input file is found!
+2019-12-27 23:48:13 INFO  Main:212 - Output file is found!
+2019-12-27 23:48:40 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:48:40 INFO  Main:204 - Input file is found!
+2019-12-27 23:48:40 INFO  Main:212 - Output file is found!
+2019-12-27 23:48:59 INFO  Main:188 - InfoStream is found!
+2019-12-27 23:48:59 INFO  Main:205 - Input file is found!
+2019-12-27 23:48:59 INFO  Main:213 - Output file is found!
+2019-12-27 23:49:12 INFO  Main:188 - InfoStream is found!
+2019-12-27 23:49:12 INFO  Main:205 - Input file is found!
+2019-12-27 23:49:12 INFO  Main:213 - Output file is found!
+2019-12-27 23:50:30 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:50:30 INFO  Main:204 - Input file is found!
+2019-12-27 23:50:30 INFO  Main:212 - Output file is found!
+2019-12-27 23:50:49 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:50:49 INFO  Main:204 - Input file is found!
+2019-12-27 23:50:49 INFO  Main:212 - Output file is found!
+2019-12-27 23:51:02 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:51:02 INFO  Main:204 - Input file is found!
+2019-12-27 23:51:02 INFO  Main:212 - Output file is found!
+2019-12-27 23:51:20 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:51:20 INFO  Main:204 - Input file is found!
+2019-12-27 23:51:20 INFO  Main:212 - Output file is found!
+2019-12-27 23:51:59 INFO  Main:187 - InfoStream is found!
+2019-12-27 23:51:59 INFO  Main:204 - Input file is found!
+2019-12-27 23:51:59 INFO  Main:212 - Output file is found!
+2019-12-27 23:52:29 INFO  Main:185 - InfoStream is found!
+2019-12-27 23:52:29 INFO  Main:202 - Input file is found!
+2019-12-27 23:52:29 INFO  Main:210 - Output file is found!
+2019-12-27 23:52:37 INFO  Main:185 - InfoStream is found!
+2019-12-27 23:52:37 INFO  Main:202 - Input file is found!
+2019-12-27 23:52:37 INFO  Main:210 - Output file is found!

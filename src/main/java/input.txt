@@ -1,0 +1,6 @@
+50 20 Chocolate Roshen
+60 30 Chocolate Svitoch
+40 25 Chocolate Vatsak
+20 30 Chewing Orbit
+50 25 Chewing Dirol
+60 15 Chewing BubbleGum
